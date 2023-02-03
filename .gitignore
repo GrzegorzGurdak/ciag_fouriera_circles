@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/ciag_fourier_circles
+/.git
+/ciag_fuhrera_circles/x64
